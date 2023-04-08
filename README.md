@@ -7,5 +7,5 @@ https://docs.google.com/document/d/1LYY0EaY0HNlNoagLRgQ0R2xDIGEV5pPmCyguK0baRXo/
 2. CleanUp Disk C
    Run-> cleanmgr /LOWDISK
    
-3. Set desktop icons: MyComputer, Control Panel e.t.
+3. Set desktop icons: This PC(MyComputer), Control Panel e.t.
    Run-> desk.cpl ,,@web
